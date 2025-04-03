@@ -16,21 +16,21 @@ I'm a passionate Backend Developer with a strong focus on .NET and Entity Framew
 
 
 ## Tech Stack
-Backend: .NET, .NET Core, ASP.NET Core, C#
+- Backend: .NET, .NET Core, ASP.NET Core, C#
 
-Database: Entity Framework Core, SQL Server, PostgreSQL, MySQL
+- Database: Entity Framework Core, SQL Server, PostgreSQL, MySQL
 
-Web: RESTful APIs, Web Services, GraphQL
+- Web: RESTful APIs, Web Services, GraphQL
 
-Authentication: JWT, OAuth2, IdentityServer4
+- Authentication: JWT, OAuth2, IdentityServer4
 
-Version Control: Git,  GitLab
+- Version Control: Git,  GitLab
 
-CI/CD: GitLab
+- CI/CD: GitLab
 
-Cloud: Google Cloud, AWS (basic)
+- Cloud: Google Cloud, AWS (basic)
 
-Containerization: Docker
+- Containerization: Docker
 
 
 ## 📫 How to reach me...
